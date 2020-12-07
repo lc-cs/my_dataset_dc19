@@ -1,2 +1,22 @@
-Casi totali;Var casi totali (Nuovi positivi);Var casi totali %;Attualmente positivi;Var attualm pos;Var attualm pos %;Guariti;Var guariti;Var guariti %;Deceduti;Var deceduti;Var deceduti %;Totale ospedalizzati;Var tot osped;Var tot osped %;Ricoverati con sintomi;Var ricov con sint;Var ricov con sint %;Terapia intensiva;Var terapia int;Var terapia int %;Isolamento domiciliare;Var isolam dom;Var isolam dom %;Tamponi;Var tamponi (Nuovi tamponi);Var tamponi %;% Casi totali su Tamponi;% Nuovi positivi su Nuovi tamponi;Casi testati;Var casi testati (Nuovi casi testati);Var casi testati %;% Casi totali su Casi testati;% Nuovi positivi su Nuovi casi testati
-1.728.878;+18.887;+1,10%;755.306;+1.137;+0,15%;913.494;+17.186;+1,92%;60.078;+564;+0,95%;33.845;+170;+0,50%;30.391;+233;+0,77%;3.454;-63;-1,79%;721.461;+967;+0,13%;23.125.664;+163.550;+0,71%;7,48%;11,55%;13.510.154;-732.995;-5,15%;12,80%;-2,58%
+denominazione_regione;Casi totali;Nuovi positivi;% Nuovi pos regione / Nuovi pos tot nazionale;Attualmente positivi;Tot. Terapia intensiva;Tot. Ricoverati con sintomi;Tot. Isolamento domiciliare
+Lombardia;430.671;+1.562;11,42%;116.000;781;6.362;108.857
+Piemonte;178.699;+911;6,66%;65.749;345;4.243;61.161
+Veneto;167.799;+2.550;18,64%;78.301;317;2.529;75.455
+Campania;166.353;+1.060;7,75%;100.295;137;1.840;98.318
+Emilia-Romagna;135.651;+1.890;13,82%;69.481;239;2.805;66.437
+Lazio;131.627;+1.372;10,03%;93.514;340;3.209;89.965
+Toscana;108.990;+593;4,34%;28.084;253;1.365;26.466
+Sicilia;72.407;+918;6,71%;40.246;205;1.387;38.654
+Puglia;65.342;+1.001;7,32%;46.578;197;1.608;44.773
+Liguria;53.907;+128;0,94%;10.010;92;867;9.051
+Friuli Venezia Giulia;35.826;+359;2,62%;14.869;58;665;14.146
+Marche;32.538;+145;1,06%;14.048;82;518;13.448
+Abruzzo;30.398;+124;0,91%;16.641;73;678;15.890
+P.A. Bolzano;25.476;+115;0,84%;10.917;33;405;10.479
+Umbria;25.209;+65;0,48%;5.990;56;338;5.596
+Sardegna;24.552;+366;2,68%;15.142;64;619;14.459
+Calabria;18.712;+175;1,28%;10.341;27;382;9.932
+P.A. Trento;17.268;+165;1,21%;2.517;48;423;2.046
+Basilicata;9.046;+106;0,77%;6.393;16;124;6.253
+Valle d'Aosta;6.748;+22;0,16%;944;10;105;829
+Molise;5.338;+52;0,38%;2.759;9;52;2.698
