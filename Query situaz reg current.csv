@@ -1,0 +1,22 @@
+denominazione_regione,Zona,Casi totali,Nuovi positivi,% Nuovi pos regione / Nuovi pos tot nazionale,Attualmente positivi,Tot Terapia intensiva,Tot Ricoverati con sintomi,Tot Isolamento domiciliare
+Lombardia,Arancione Scuro,640362,4084,0.20,82343,611,5416,76316
+Veneto,Arancione,344875,1608,0.08,30210,141,1013,29056
+Campania,Rossa,289574,2709,0.13,91233,144,1444,89645
+Emilia-Romagna,Arancione,285021,2429,0.12,58396,307,3044,55045
+Piemonte,Arancione,262453,2018,0.10,23782,228,2432,21122
+Lazio,Gialla,246775,1431,0.07,38577,261,2049,36267
+Toscana,Arancione,166452,1001,0.05,22157,209,1215,20733
+Sicilia,Gialla,157498,595,0.03,14202,112,665,13425
+Puglia,Gialla,157337,1286,0.06,35805,163,1369,34273
+Friuli Venezia Giulia,Arancione,81762,598,0.03,12210,60,478,11672
+Liguria,Gialla,80863,248,0.01,5930,62,521,5347
+Marche,Arancione,73883,423,0.02,10158,103,631,9424
+Abruzzo,Arancione,57954,187,9.46883386500582e-03,13325,87,672,12566
+P.A. Bolzano,Arancione,55590,178,9.01311458808041e-03,4833,39,176,4618
+Umbria,Arancione,46713,232,0.01,6870,79,431,6360
+Sardegna,Bianca,41959,146,7.39277938123449e-03,12720,24,185,12511
+Calabria,Gialla,39608,149,7.5446858068763e-03,6606,35,231,6340
+P.A. Trento,Arancione,36222,213,0.01,3945,49,199,3697
+Basilicata,Rossa,16799,182,9.21565648893615e-03,3802,14,114,3674
+Molise,Rossa,11234,24,1.21525140513444e-03,1584,26,99,1459
+Valle d'Aosta,Gialla,8159,8,4.05083801711479e-04,195,2,9,184
