@@ -1,7 +1,7 @@
 denominazione_regione,Zona,Casi totali,Nuovi positivi,% Nuovi pos regione / Nuovi pos tot nazionale,Attualmente positivi,Tot Terapia intensiva,Tot Ricoverati con sintomi,Tot Isolamento domiciliare
 Lombardia,Arancione,781519,1782,0.14,66377,722,4716,60939
 Veneto,Arancione,401450,761,0.05,26444,236,1211,24997
-Campania,Rossa,370415,1700,0.13,92421,146,1529,90746
+Campania,Arancione,370415,1700,0.13,92421,146,1529,90746
 Emilia-Romagna,Arancione,358329,1104,0.08,63885,297,2226,61362
 Piemonte,Arancione,333788,751,0.05,22596,288,3100,19208
 Lazio,Arancione,310478,1127,0.08,50790,372,2705,47713
