@@ -1,6 +1,6 @@
 denominazione_regione,Zona,Casi totali,Nuovi positivi,% Nuovi pos regione / Nuovi pos tot nazionale,Attualmente positivi,Tot Terapia intensiva,Tot Ricoverati con sintomi,Tot Isolamento domiciliare
 Lombardia,Gialla,837586,359,0.15,20641,167,833,19641
-Veneto,Gialla,424002,80,0.03,6880,44,197,6639
+Veneto,Bianca,424002,80,0.03,6880,44,197,6639
 Campania,Gialla,421112,255,0.11,63483,46,571,62866
 Emilia-Romagna,Gialla,384820,172,0.07,11454,70,412,10972
 Piemonte,Gialla,361401,129,0.05,3813,63,461,3289
@@ -10,12 +10,12 @@ Toscana,Gialla,242409,193,0.08,5985,93,291,5601
 Sicilia,Gialla,227524,275,0.12,7971,44,382,7545
 Friuli Venezia Giulia,Bianca,107177,13,5.71428571428571e-03,4725,1,28,4696
 Marche,Gialla,103120,75,0.03,3377,17,79,3281
-Liguria,Gialla,102934,36,0.01,785,26,81,678
-Abruzzo,Gialla,74277,39,0.01,5152,9,90,5053
+Liguria,Bianca,102934,36,0.01,785,26,81,678
+Abruzzo,Bianca,74277,39,0.01,5152,9,90,5053
 P.A. Bolzano,Gialla,73060,39,0.01,569,2,13,554
 Calabria,Gialla,67658,128,0.05,8966,14,191,8761
 Sardegna,Bianca,56877,31,0.01,12477,8,110,12359
-Umbria,Gialla,56530,24,0.01,1233,6,45,1182
+Umbria,Bianca,56530,24,0.01,1233,6,45,1182
 P.A. Trento,Gialla,45568,15,6.59340659340659e-03,356,6,20,330
 Basilicata,Gialla,26493,31,0.01,3338,0,49,3289
 Molise,Bianca,13607,4,1.75824175824176e-03,96,0,5,91
