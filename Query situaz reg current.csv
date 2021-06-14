@@ -1,11 +1,11 @@
 denominazione_regione,Zona,Casi totali,Nuovi positivi,% Nuovi pos regione / Nuovi pos tot nazionale,Attualmente positivi,Tot Terapia intensiva,Tot Ricoverati con sintomi,Tot Isolamento domiciliare
-Lombardia,Gialla,839577,102,0.11,18372,109,596,17667
+Lombardia,Bianca,839577,102,0.11,18372,109,596,17667
 Veneto,Bianca,424634,19,0.02,5880,26,134,5720
 Campania,Gialla,422619,80,0.08,59829,24,379,59426
-Emilia-Romagna,Gialla,385821,137,0.15,8018,62,291,7665
-Piemonte,Gialla,362233,87,0.09,2605,45,303,2257
-Lazio,Gialla,344518,111,0.12,5846,94,454,5298
-Puglia,Gialla,252280,47,0.05,12584,20,263,12301
+Emilia-Romagna,Bianca,385821,137,0.15,8018,62,291,7665
+Piemonte,Bianca,362233,87,0.09,2605,45,303,2257
+Lazio,Bianca,344518,111,0.12,5846,94,454,5298
+Puglia,Bianca,252280,47,0.05,12584,20,263,12301
 Toscana,Gialla,243457,82,0.09,4206,63,190,3953
 Sicilia,Gialla,229503,163,0.17,6631,39,319,6273
 Friuli Venezia Giulia,Bianca,107373,4,4.41014332965821e-03,4582,4,9,4569
@@ -16,7 +16,7 @@ P.A. Bolzano,Gialla,73193,0,0.00,388,2,15,371
 Calabria,Gialla,68250,18,0.01,7899,8,146,7745
 Sardegna,Bianca,57039,31,0.03,11972,6,83,11883
 Umbria,Bianca,56671,4,4.41014332965821e-03,1013,5,41,967
-P.A. Trento,Gialla,45689,2,2.20507166482911e-03,242,4,13,225
+P.A. Trento,Bianca,45689,2,2.20507166482911e-03,242,4,13,225
 Basilicata,Gialla,26689,1,1.10253583241455e-03,2953,0,40,2913
 Molise,Bianca,13636,4,4.41014332965821e-03,79,0,8,71
 Valle d'Aosta,Gialla,11658,2,2.20507166482911e-03,96,0,3,93
