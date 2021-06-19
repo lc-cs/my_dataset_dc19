@@ -1,22 +1,22 @@
 denominazione_regione,Zona,Casi totali,Nuovi positivi,% Nuovi pos regione / Nuovi pos tot nazionale,Attualmente positivi,Tot Terapia intensiva,Tot Ricoverati con sintomi,Tot Isolamento domiciliare
-Lombardia,Bianca,840361,114,0.09,13832,91,427,13314
-Veneto,Bianca,424925,72,0.06,5385,23,102,5260
-Campania,Gialla,423160,107,0.09,10772,22,314,10436
-Emilia-Romagna,Bianca,386099,71,0.06,5994,40,246,5708
-Piemonte,Bianca,362497,58,0.05,1905,36,233,1636
-Lazio,Bianca,345045,147,0.12,4474,77,337,4060
-Puglia,Bianca,252757,106,0.09,9343,18,207,9118
-Toscana,Gialla,243747,67,0.05,3470,37,152,3281
-Sicilia,Gialla,230269,170,0.14,5702,30,259,5413
-Friuli Venezia Giulia,Bianca,107454,23,0.02,4514,1,4,4509
-Marche,Gialla,103508,28,0.02,2201,8,36,2157
-Liguria,Bianca,103119,16,0.01,286,8,35,243
-Abruzzo,Bianca,74570,25,0.02,1277,1,52,1224
-P.A. Bolzano,Gialla,73238,9,7.84655623365301e-03,305,2,9,294
-Calabria,Gialla,68494,77,0.06,7021,10,112,6899
-Sardegna,Bianca,57096,8,6.97471665213601e-03,11606,5,70,11531
-Umbria,Bianca,56736,13,0.01,926,5,33,888
-P.A. Trento,Bianca,45719,8,6.97471665213601e-03,178,2,8,168
-Basilicata,Gialla,26778,14,0.01,2735,0,35,2700
-Molise,Bianca,13663,12,0.01,82,0,6,76
-Valle d'Aosta,Gialla,11667,2,1.743679163034e-03,64,0,3,61
+Lombardia,Bianca,840544,183,0.15,13587,80,402,13105
+Veneto,Bianca,424983,58,0.04,5285,22,88,5175
+Campania,Gialla,423299,139,0.11,10621,20,296,10305
+Emilia-Romagna,Bianca,386192,93,0.07,5762,39,233,5490
+Piemonte,Bianca,362563,66,0.05,1798,30,225,1543
+Lazio,Bianca,345146,101,0.08,4359,77,320,3962
+Puglia,Bianca,252818,61,0.05,8909,17,186,8706
+Toscana,Gialla,243809,62,0.05,3288,38,144,3106
+Sicilia,Gialla,230452,183,0.15,5615,28,240,5347
+Friuli Venezia Giulia,Bianca,107469,15,0.01,4478,1,4,4473
+Marche,Gialla,103524,16,0.01,2069,8,32,2029
+Liguria,Bianca,103133,14,0.01,291,8,35,248
+Abruzzo,Bianca,74601,35,0.02,1255,1,42,1212
+P.A. Bolzano,Gialla,73246,8,6.68337510442774e-03,297,3,8,286
+Calabria,Gialla,68605,111,0.09,6905,11,100,6794
+Sardegna,Bianca,57109,13,0.01,11597,5,68,11524
+Umbria,Bianca,56744,8,6.68337510442774e-03,894,4,30,860
+P.A. Trento,Bianca,45727,8,6.68337510442774e-03,166,2,9,155
+Basilicata,Gialla,26791,13,0.01,1832,0,33,1799
+Molise,Bianca,13670,7,5.84795321637427e-03,81,0,6,75
+Valle d'Aosta,Gialla,11670,3,2.5062656641604e-03,61,0,3,58
