@@ -1,22 +1,22 @@
 denominazione_regione,Zona,Casi totali,Nuovi positivi,% Nuovi pos regione / Nuovi pos tot nazionale,Attualmente positivi,Tot Terapia intensiva,Tot Ricoverati con sintomi,Tot Isolamento domiciliare
 Lombardia,Bianca,840689,145,0.16,13657,77,408,13172
 Veneto,Bianca,425009,26,0.02,5212,20,88,5104
-Campania,Gialla,423381,82,0.09,10372,23,287,10062
+Campania,Bianca,423381,82,0.09,10372,23,287,10062
 Emilia-Romagna,Bianca,386265,73,0.08,5590,38,223,5329
 Piemonte,Bianca,362594,31,0.03,1698,32,220,1446
 Lazio,Bianca,345214,68,0.07,4239,77,300,3862
 Puglia,Bianca,252863,45,0.05,8859,17,187,8655
-Toscana,Gialla,243864,55,0.06,3270,38,134,3098
-Sicilia,Gialla,230587,135,0.15,5560,26,239,5295
+Toscana,Bianca,243864,55,0.06,3270,38,134,3098
+Sicilia,Bianca,230587,135,0.15,5560,26,239,5295
 Friuli Venezia Giulia,Bianca,107476,7,7.94551645856981e-03,4479,1,6,4472
-Marche,Gialla,103539,15,0.01,2012,6,33,1973
+Marche,Bianca,103539,15,0.01,2012,6,33,1973
 Liguria,Bianca,103151,18,0.02,278,8,34,236
 Abruzzo,Bianca,74628,27,0.03,1275,1,44,1230
-P.A. Bolzano,Gialla,73254,8,9.08059023836549e-03,276,3,6,267
-Calabria,Gialla,68659,54,0.06,6869,11,89,6769
+P.A. Bolzano,Bianca,73254,8,9.08059023836549e-03,276,3,6,267
+Calabria,Bianca,68659,54,0.06,6869,11,89,6769
 Sardegna,Bianca,57118,9,0.01,11578,5,68,11505
 Umbria,Bianca,56771,27,0.03,890,4,26,860
 P.A. Trento,Bianca,45731,4,4.54029511918275e-03,149,2,9,138
-Basilicata,Gialla,26827,36,0.04,1300,0,33,1267
+Basilicata,Bianca,26827,36,0.04,1300,0,33,1267
 Molise,Bianca,13682,12,0.01,90,0,6,84
 Valle d'Aosta,Gialla,11674,4,4.54029511918275e-03,57,0,4,53
