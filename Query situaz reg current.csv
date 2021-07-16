@@ -1,22 +1,22 @@
 denominazione_regione,Zona,Casi totali,Nuovi positivi,% Nuovi pos regione / Nuovi pos tot nazionale,Attualmente positivi,Tot Terapia intensiva,Tot Ricoverati con sintomi,Tot Isolamento domiciliare
-Lombardia,Bianca,844692,381,0.15,7877,29,128,7720
-Veneto,Bianca,427322,318,0.12,5745,10,42,5693
-Campania,Bianca,426544,234,0.09,6908,12,195,6701
-Emilia-Romagna,Bianca,388073,167,0.06,2257,14,140,2103
-Piemonte,Bianca,363512,68,0.02,838,4,49,785
-Lazio,Bianca,348000,353,0.14,2390,25,105,2260
-Puglia,Bianca,253999,42,0.01,1651,7,69,1575
-Toscana,Bianca,245342,173,0.07,1567,15,62,1490
-Sicilia,Bianca,234275,353,0.14,4140,21,140,3979
-Friuli Venezia Giulia,Bianca,107188,21,8.55397148676171e-03,231,1,5,225
-Marche,Bianca,104147,40,0.01,1391,2,9,1380
-Liguria,Bianca,103701,31,0.01,230,5,7,218
-Abruzzo,Bianca,75285,50,0.02,928,1,24,903
-P.A. Bolzano,Bianca,73445,22,8.96130346232179e-03,153,0,5,148
-Calabria,Bianca,69475,32,0.01,1986,2,48,1936
-Sardegna,Bianca,57913,112,0.04,1264,3,42,1219
-Umbria,Bianca,56993,20,8.14663951120163e-03,617,1,7,609
-P.A. Trento,Bianca,45875,23,9.36863543788187e-03,87,1,1,85
-Basilicata,Bianca,27059,5,2.03665987780041e-03,544,0,10,534
-Molise,Bianca,13776,10,4.07331975560081e-03,77,0,1,76
-Valle d'Aosta,Bianca,11703,0,0.00,19,0,0,19
+Lombardia,Bianca,845091,399,0.13,8253,30,143,8080
+Veneto,Bianca,427747,425,0.14,6097,11,41,6045
+Campania,Bianca,426748,204,0.07,6908,12,171,6725
+Emilia-Romagna,Bianca,388272,200,0.06,2358,15,148,2195
+Piemonte,Bianca,363627,115,0.03,920,3,48,869
+Lazio,Bianca,348443,443,0.15,2645,25,105,2515
+Puglia,Bianca,254045,46,0.01,1641,9,65,1567
+Toscana,Bianca,245511,169,0.05,1674,16,60,1598
+Sicilia,Bianca,234661,386,0.13,4409,23,144,4242
+Friuli Venezia Giulia,Bianca,107214,26,8.97170462387854e-03,233,1,6,226
+Marche,Bianca,104199,52,0.01,1419,2,11,1406
+Liguria,Bianca,103755,54,0.01,256,5,8,243
+Abruzzo,Bianca,75308,25,8.62663906142167e-03,924,1,25,898
+P.A. Bolzano,Bianca,73455,10,3.45065562456867e-03,140,0,5,135
+Calabria,Bianca,69552,77,0.02,2005,3,47,1955
+Sardegna,Bianca,58053,140,0.04,1399,3,43,1353
+Umbria,Bianca,57049,56,0.01,662,1,4,657
+P.A. Trento,Bianca,45908,33,0.01,113,1,0,112
+Basilicata,Bianca,27069,10,3.45065562456867e-03,540,0,14,526
+Molise,Bianca,13799,23,7.93650793650794e-03,96,0,0,96
+Valle d'Aosta,Bianca,11708,5,1.72532781228433e-03,22,0,0,22
